@@ -1,0 +1,15 @@
+.section-bg {
+    background-color: #FFAA00;
+}
+.block {
+    width: 300px;
+    height: 312px;
+}
+
+.title {
+    width: 178px;
+    font-size: 20px;
+}
+.text-block {
+    width: 218px;
+}
